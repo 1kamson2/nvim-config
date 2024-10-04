@@ -24,7 +24,7 @@ M.mason = {
     "black",
     "debugpy",
     "stylua",
-    "cpplint"
+    "clang-format"
   },
 }
 
