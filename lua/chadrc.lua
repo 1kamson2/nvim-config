@@ -17,6 +17,7 @@ M.mason = {
   pkgs = {
     "lua-language-server",
     "clangd",
+    "clang-format",
     "codelldb",
     "pyright",
     "mypy",
