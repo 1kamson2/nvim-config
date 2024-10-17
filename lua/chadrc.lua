@@ -16,6 +16,10 @@ M.base46 = {
 M.mason = {
   pkgs = {
     "lua-language-server",
+    "eslint-lsp",
+    "typescript-language-server",
+    "tailwindcss-language-server",
+    "rust-analyzer",
     "clangd",
     "clang-format",
     "codelldb",
@@ -25,7 +29,7 @@ M.mason = {
     "black",
     "debugpy",
     "stylua",
-    "clang-format"
+    "prettierd",
   },
 }
 
